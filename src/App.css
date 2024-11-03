@@ -1,0 +1,37 @@
+.app-container{
+  display:flex
+}
+.content{
+width: 100%;
+}
+.sidebar{
+  min-height: 800px;
+}
+.post{
+  margin: 20px 30px;
+}
+.hashTag{
+  margin: 0px 3px;
+}
+.reactions{
+  margin-top: 30px;
+}
+.create-post{
+  width: 40%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.delete{
+  cursor: pointer;
+}
+.welcome{
+  margin-top: 100px;
+}
+.like{
+  margin-bottom: 10px;
+  width: 20%;
+  display: block;
+}
+.spinner{
+  margin-top: 252px;
+}
